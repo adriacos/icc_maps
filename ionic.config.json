@@ -1,0 +1,7 @@
+{
+  "name": "icc_maps",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
